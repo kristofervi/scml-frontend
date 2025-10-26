@@ -22,7 +22,7 @@ function App() {
       ))}
     </ol>
     <p style={{display: 'flex', justifyContent: 'flex-end', fontWeight: 'bold'}}>
-      2025-26/10</p>
+      2025-10/26</p>
     </div>
     )
   )
